@@ -9,7 +9,7 @@ A robust REST API for managing warehouse inventory with stock tracking capabilit
 - ✅ Low stock threshold alerts
 - ✅ Comprehensive error handling
 - ✅ Unit tests with edge cases
-- ✅ MVVC (Model-View-ViewModel-Controller) architecture
+- ✅ MVC (Model-View-Controller) architecture
 
 ## Tech Stack
 
